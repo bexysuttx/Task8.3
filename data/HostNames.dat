@@ -1,0 +1,4 @@
+[hosts]
+localhost=
+go.microsoft.com=
+edge.microsoft.com=

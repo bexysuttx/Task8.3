@@ -1,0 +1,8 @@
+GET /fwlink/?linkid=2133855&bucket=66&customertype=1 HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: go.microsoft.com
+Connection: Keep-Alive
+Accept-Encoding: gzip, deflate
+Cookie: SRCHUID=V=2&GUID=3E5F70FD41604522868E0DC519A43A43&dmnchg=1; SRCHD=AF=NOFORM; _EDGE_V=1; MUID=0A639C82251264EC04448C8B24796521; SRCHUSR=DOB=20210329; SRCHHPGUSR=SRCHLANGV2=ru
+

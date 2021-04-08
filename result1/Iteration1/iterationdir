@@ -1,0 +1,6 @@
+[vuser_init]
+SnapshotIndex=I1_vuser_init
+[CLI]
+SnapshotIndex=I1_CLI
+[vuser_end]
+SnapshotIndex=I1_vuser_end

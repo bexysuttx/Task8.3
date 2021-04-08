@@ -1,0 +1,92 @@
+[
+    {
+        "actionName": "CLI",
+        "steps": [
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: Search Flights Button",
+                "infFile": "t3.inf",
+                "time": 1617878945721
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t4.inf",
+                "time": 1617878945854
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: Search Flights Button",
+                "infFile": "t5.inf",
+                "time": 1617878946093
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t6.inf",
+                "time": 1617878946174
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: Search Flights Button",
+                "infFile": "t7.inf",
+                "time": 1617878946377
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t8.inf",
+                "time": 1617878946470
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: Search Flights Button",
+                "infFile": "t9.inf",
+                "time": 1617878946710
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t10.inf",
+                "time": 1617878946797
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: Search Flights Button",
+                "infFile": "t11.inf",
+                "time": 1617878947002
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t12.inf",
+                "time": 1617878947118
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Url: Search Flights Button",
+                "infFile": "t13.inf",
+                "time": 1617878947329
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t14.inf",
+                "time": 1617878947435
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t15.inf",
+                "time": 1617878947558
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t16.inf",
+                "time": 1617878947685
+            }
+        ],
+        "transactions": []
+    }
+]

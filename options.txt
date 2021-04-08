@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\79278\Desktop\andrei\Task3
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\79278\desktop\andrei\task3\\logfile.log
+c:\users\79278\desktop\andrei\task3\\combined_Task3.c
+c:\users\79278\desktop\andrei\task3\\pre_cci.c
